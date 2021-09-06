@@ -1,0 +1,806 @@
+@media (max-width: 480px) {
+    .tokenomics-panel-container {
+        padding:0;
+    }
+    #section-ecosystem {
+        padding: 50px 0 40px 0;
+    }
+    .top-shift {
+        top:-20px;
+    }
+    #dividends-container-scene {display:none}
+    .income-tabs > ul > li > .income-tab-title > span {
+        font-size:22px;
+    }
+    .roadmap > .roadmap-special-red-line {
+        display: none;
+    }
+    .roadmap-special-rectangle {
+        display: none;
+    }
+    .ecosystem-slide {
+        padding-top:40px;
+    }
+    .tx-right .x-btn-outline {
+        margin-bottom: 20px;
+    }
+    .income-tabs > ul > li > .income-tab-content {
+        display: block;
+    }
+    .income-tabs > ul > li {
+        margin: 20px auto;
+    }
+    #section-economic-model {
+        padding: 40px 0;
+    }
+    #section-tokenomics {
+        padding: 25px 0;
+        background-color: #0f2133;
+    }
+    #section-our-team {
+        padding: 90px 0;
+    }
+    #section-our-team .h2 {
+        margin-bottom:20px;
+    }
+    #section-roadmap {
+        padding: 25px 0;
+    }
+    .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+        color:#fff;
+        font-size:20px;
+    }
+    .distribution-item{
+        margin-top:0;
+        margin-bottom:-1px;
+    }
+    .distribution-item > .distribution-border{
+        display:none;
+    }
+    .distribution-item > .distribution-item-b-value{
+        margin-top:0;
+        top:-11px;
+        left:0%;
+    }
+    .distribution-item > .distribution-item-r-value{
+        right:0;
+        left:auto;
+        top:-11px;
+        margin-top:0;
+    }
+    .distribution-item > .distribution-item-b-value img,
+    .distribution-item > .distribution-item-r-value img{
+        max-height:35px;
+    }
+    .xs-hidden{
+        display: none !important;
+    }
+    .distribution-income{
+        padding:10px;
+    }
+    .btc-arrow-value{
+        font-size:30px;
+        margin-top:-20px;
+    }
+    .btc-arrow-title{
+        margin-top:0;
+    }
+    /* function */
+    .income-tabs > ul > li > div > img{
+        margin-right:10px;
+    }
+    .income-tabs > ul > li > div > span{
+        font-size:14px;
+    }
+    .income-tabs > ul > li.active::before{
+        display: none;
+    }
+    /*------------------------*/
+    .function-token-container-title{
+        font-size:28px;
+    }
+    .income-tab-content{
+        font-size:14px;
+        padding:15px;
+    }
+    .right-reserve-fond-container{
+
+    }
+    .right-reserve-fond-container .reserve-fond-text{
+        padding-left:0px;
+    }
+    .reserve-fond-text .row .col-xs-12 > div:first-child{
+        font-size:24px;
+        width: 60px;
+        margin-right:0;
+    }
+    .reserve-fond-text .row .col-xs-12 > div:last-child{
+        font-size:14px;
+        line-height:20px;
+        width: calc(100% - 70px);
+    }
+    #burn-scene > #burn-scene-item-1 > div{
+        margin-top:-360px !important;
+    }
+    /* economic */
+    .economic-model-text-red-container {
+        padding: 35px;
+    }
+
+    .economic-model-text-red-container-x {
+        display: none;
+        /*
+        left: 50%;
+        margin-left: -30px;
+        opacity: 0.4;
+        */
+    }
+
+    /* ---- */
+    #section-sale-steps{
+        padding:70px 0 !important;
+    }
+    .roadmap > .roadmap-step > .roadmap-step-title > .roadmap-step-title-text {
+        padding-left: 34px;
+    }
+    .roadmap > .roadmap-step > .roadmap-step-container-ul ul > li:before{
+        left:6px;
+    }
+    /* */
+    .sm-hidden {
+        display: none;
+    }
+    .animate{
+        opacity:1 !important;
+    }
+
+    h1 {
+        font-size: 62px !important;
+    }
+
+    h1 > .special-title-2 {
+        display: block;
+        text-align: right;
+        width: 100%;
+        background: -webkit-linear-gradient(0deg, #FFFFFD 50%, rgba(0, 0, 0, 0) 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    h2 {
+        font-size: 44px !important;
+    }
+
+    h2 .h2-right-text {
+        /* display: block; */
+        text-align: right;
+    }
+    /*section-primary*/
+    #section-primary {
+        display: flex;
+        align-items: center;
+        padding: 120px 0 60px 0 !important;
+        height: auto !important;
+        min-height: max(700px,100vh);
+    }
+
+    #section-primary > .menu{
+        height:80px;
+        padding:0 10px;
+    }
+    #section-primary > .menu > div{
+        max-width:100vw;
+        margin:0;
+    }
+    #section-primary > .menu .button.language{
+        width:60px;
+        min-width:60px;
+    }
+
+    .primary-h1-container {
+        min-width:100%;
+        padding-left: 0;
+    }
+
+    .primary-h1-container > h1 {
+        width:327px;
+        margin-bottom: 0;
+    }
+
+    .primary-h1-container > .primary-h1-subtext{
+        width:327px;
+        margin-bottom:28px;
+        background-image: -webkit-linear-gradient(-45deg, #FE3355 0%, #FE335555 100%);
+        text-align: right;
+    }
+
+    .primary-h1-container > .primary-ul-container{
+        text-align:center;
+    }
+
+    .primary-h1-container > #section-primary-x {
+        left: -405px !important;
+        top: -150px;
+    }
+
+    #section-primary-image {
+        display: none;
+        /* left: 81% !important; */
+    }
+
+    #section-primary-background {
+        left: 81% !important;
+    }
+
+    .primary-h1-subtext{
+        margin-bottom:30px;
+    }
+    .primary-h1-description {
+        text-align: center;
+        margin-bottom: 50px !important;
+    }
+    .primary-ul-container > div{
+        text-align: center !important;
+    }
+    .primary-ul-container > div > ul {
+        text-align: center !important;
+    }
+
+    .primary-ul-container > div > ul > li:last-child {
+        display: block;
+        padding-top: 15px;
+    }
+
+    .primary-h1-subtext {
+        font-size: 30px !important;
+    }
+
+    #section-economic-model h2{
+        font-size: 34px !important;
+    }
+
+    /* -------------------------------------------------------------------*/
+    .roadmap > .roadmap-step > .roadmap-step-title > .roadmap-step-title-arrow {
+        left: -25px;
+    }
+
+    .roadmap > .roadmap-step > .roadmap-step-container-ul {
+        padding-left: 10px !important;
+    }
+
+    .roadmap > .roadmap-step > .roadmap-step-title {
+        margin-bottom: 45px !important;
+    }
+
+    /* section-sale */
+    #section-sale-start {
+        padding: 50px 0;
+    }
+
+    .bloc-time {
+        margin-right: 10px;
+    }
+
+    .bloc-time:before {
+        right: -8px;
+    }
+
+    .figure {
+        width: 50px;
+    }
+
+    .sale-start-token-buy-container {
+        padding: 10px 10px;
+        border-radius: 10px;
+    }
+
+    .token-buy-table > tbody > tr > td:first-child {
+        font-size: 14px !important;
+    }
+
+    .token-buy-table > tbody > tr > td {
+        padding: 15px;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(1) > div {
+        line-height: 50px !important;
+        min-width: 310px !important;
+        padding: 0 15px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(2) > div {
+        line-height: 50px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(3) > div {
+        line-height: 50px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(4) > div {
+        line-height: 50px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(5) > div {
+        line-height: 50px !important;
+    }
+
+    .token-buy-table-container-title {
+        margin-left: 10px;
+        padding: 0 40px !important;
+    }
+
+    /* -------------------------------------------------------------------*/
+    .container {
+        padding: 0 10px !important;
+    }
+
+    /*ecosystem*/
+    .ecosystem-slide-title-container {
+        width: 285px;
+        height: 100px;
+    }
+
+    /*ecosystem*/
+    .ecosystem-slide-number-container {
+        width: 80px;
+        height: 80px;
+
+    }
+
+    .ecosystem-slide-number-container > .ecosystem-slide-number {
+        line-height: 80px;
+    }
+
+    .ecosystem-slide-image-title {
+        display: none;
+    }
+
+    .ecosystem-slide-text {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    .default-text{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .function-token-container .function-token-item{
+        padding:20px !important;
+        border-radius:10px !important;
+        min-height:0 !important;
+        background:#345B82bb;
+    }
+    .function-token-container .function-token-item .function-token-item-text{
+        font-size: 14px;
+        line-height: 20px;
+        text-shadow: 0 0 15px #111b, 0 0 1px #111;
+    }
+    .function-token-container .function-token-item .function-token-item-title{
+        font-size:14px;
+    }
+    #burn-scene > #burn-scene-item-1 > div{
+        margin-top:-385px !important;
+    }
+    .income-tabs-content > .income-tabs-content-x{
+        right:-81px;
+    }
+    .distribution-income-title{
+        width:calc(100% - 30px);
+        margin-left:15px;
+        font-size:14px;
+    }
+    .distribution-income-table-container .distribution-income-table:before{
+        height:calc(100% - 60px);
+        top:55px;
+    }
+    .tokenomics-distribution-item .tokenomics-distribution-item-bar-value{
+        margin-top:10px;
+        margin-bottom:0px;
+    }
+    .roadmap > .roadmap-special-logo-container{
+        top:57%;
+    }
+    .roadmap > .roadmap-step > .roadmap-step-title > .roadmap-step-title-arrow{
+        display:none;
+    }
+    .modal-gambling .modal-content .modal-header .modal-title{
+        padding-bottom:16px;
+    }
+    .modal-gambling .modal-content .modal-header .btn-close{
+        top:27px;
+        right:30px;
+    }
+    .modal-gambling .modal-content .modal-body{
+        font-size:14px;
+    }
+    .menu-footer{
+       text-align: center;
+    }
+    .menu-footer > .menu-footer-separate{
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 576px) {
+    .distribution-item > .distribution-item-r-value {
+        right: -20px;
+        left:auto;
+    }
+    .distribution-item > .distribution-item-b-value {
+        left: -20px;
+        right: auto;
+    }
+    .distribution-item > .distribution-item-b-value img, .distribution-item > .distribution-item-r-value img {
+        max-height: 45px;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 640px) {
+    .ecosystem-slide-title-container {
+        display: block;
+    }
+
+    .ecosystem-slide-number-container {
+        margin-right: 0 !important;
+        display: block;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .income-tabs > ul > li.active:before {display: none;}
+    #dividends-container-scene {display:none}
+    .distribution-income{
+        padding:15px;
+    }
+   
+    .right-reserve-fond-container .reserve-fond-text{
+        padding-left:30px;
+    }
+    .animate{
+        opacity:1 !important;
+    }
+    .default-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .function-token-container .function-token-item .function-token-item-text{
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .sm-hidden {
+        display: none;
+    }
+    .income-tabs > ul > li > .income-tab-content {
+        display: block;
+    }
+    .income-tabs > ul > li {
+        margin: 40px auto;
+    }
+    /*section-primary*/
+    .primary-h1-container {
+        padding-left: 0;
+    }
+
+    .primary-h1-container > #section-primary-x {
+        left: -444px !important;
+        top: -155px;
+    }
+
+    h1 {
+        font-size: 62px !important;
+    }
+
+    h2 {
+        font-size: 52px !important;
+    }
+
+    /* -------------------------------------------------------------------*/
+    .roadmap > .roadmap-step > .roadmap-step-container-ul {
+        padding-left: 50px !important;
+    }
+
+    .roadmap > .roadmap-step > .roadmap-step-title > .roadmap-step-title-arrow {
+        left: -25px;
+    }
+
+    .roadmap > .roadmap-step > .roadmap-step-title {
+        margin-bottom: 45px !important;
+    }
+
+    /* section-sale */
+    .bloc-time {
+        margin-right: 30px;
+    }
+
+    .bloc-time:before {
+        right: -15px;
+    }
+
+    .sale-start-token-buy-container {
+        padding: 25px 25px;
+    }
+
+    .token-buy-table > tbody > tr > td:first-child {
+        font-size: 14px !important;
+    }
+
+    .token-buy-table > tbody > tr > td {
+        padding: 15px;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(1) > div {
+        line-height: 50px !important;
+        padding: 0 15px !important;
+        min-width: 310px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(2) > div {
+        line-height: 50px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(3) > div {
+        line-height: 50px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(4) > div {
+        line-height: 50px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(5) > div {
+        line-height: 50px !important;
+    }
+
+    /* -------------------------------------------------------------------*/
+    .ecosystem-slide-image-title {
+        display: none;
+    }
+
+    .ecosystem-slide-text {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+}
+@media (min-width: 577px) and (max-width: 768px) {
+    .distribution-item > .distribution-item-r-value {
+        right: -10%;
+        left:auto;
+    }
+    .distribution-item > .distribution-item-b-value {
+        left: -10%;
+        right: auto;
+    }
+    .distribution-item > .distribution-item-b-value img, .distribution-item > .distribution-item-r-value img {
+        max-height: 55px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 991px) {
+    .distribution-item > .distribution-item-r-value {
+        right: -20px;
+        left:auto;
+    }
+    .distribution-item > .distribution-item-b-value {
+        left: -20px;
+        right: auto;
+    }
+    .distribution-item > .distribution-item-b-value img, .distribution-item > .distribution-item-r-value img {
+        max-height: 55px;
+    }
+   
+    .income-tabs > ul > li > .income-tab-title > span {
+        font-size: 20px;
+    }
+
+    .distribution-income{
+        padding:30px 20px;
+    }
+    .md-hidden {
+        display: none !important;
+    }
+
+    /*section-primary*/
+    .primary-h1-container {
+        padding-left: 0;
+    }
+
+    .primary-h1-container > #section-primary-x {
+        left: -435px !important;
+    }
+
+    h1 {
+        font-size: 72px !important;
+    }
+
+    h2 {
+        font-size: 62px !important;
+    }
+
+    /* -------------------------------------------------------------------*/
+    /* section-sale */
+    .bloc-time {
+        margin-right: 30px;
+    }
+
+    .bloc-time:before {
+        right: -15px;
+    }
+
+    .sale-start-token-buy-container {
+        padding: 25px 25px;
+    }
+
+    .token-buy-table > tbody > tr > td:first-child {
+        font-size: 14px !important;
+    }
+
+    .token-buy-table > tbody > tr > td {
+        padding: 15px;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(1) > div {
+        line-height: 70px !important;
+        padding: 0 15px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(2) > div {
+        line-height: 70px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(3) > div {
+        line-height: 70px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(4) > div {
+        line-height: 70px !important;
+    }
+
+    .token-buy-table > thead > tr > th:nth-child(5) > div {
+        line-height: 70px !important;
+    }
+
+    /* -------------------------------------------------------------------*/
+    .roadmap > .roadmap-step > .roadmap-step-container-ul {
+        padding-left: 50px !important;
+    }
+
+    .roadmap > .roadmap-step > .roadmap-step-title > .roadmap-step-title-arrow {
+        left: -25px;
+    }
+
+    .roadmap > .roadmap-step > .roadmap-step-title {
+        margin-bottom: 45px !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .lg-hidden {
+        display: none !important;
+    }
+}
+@media (min-width:992px) and (max-width: 1200px) {
+    .distribution-item > .distribution-item-r-value {
+        right: -10%;
+        left:auto;
+    }
+    .distribution-item > .distribution-item-b-value {
+        left: -10%;
+        right: auto;
+    }
+
+    .income-tabs > ul > li > .income-tab-title > span {
+        font-size:16px;
+    }
+}
+@media (min-width:600px) and (max-width: 1091px) {
+
+    #burn-scene > #burn-scene-item-1 > div {
+        margin-top: -450px !important;
+    }
+}
+@media (max-width: 1091px){
+    .dividends-text{
+    background: linear-gradient(244.94deg, #1F364D 0%, #0F2133 100%);
+    }
+    .distribution-income-table > thead > tr > th{
+        font-size:12px;
+    }
+    .burn-value-container-back{
+        transform: rotate(90deg);
+    }
+    .burning-step{
+        margin:0 auto;
+    }
+    .burning-step-left{
+        margin-bottom:100px;
+    }
+    .burning-step-right{
+        float:none;
+        margin-top:100px;
+    }
+    .burning-step-text{
+        position:relative;
+        top:0;
+        padding:20px 0;
+        max-width:320px;
+        margin:0 auto;
+    }
+    .copyright-container,.copyright{
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .copyright-container{
+       height:auto;
+       padding-bottom:35px;
+    }
+    .copyright{
+       position:relative;
+    }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+    .roadmap > .roadmap-step > .roadmap-step-container-ul {
+        padding-left: 50px !important;
+    }
+
+    .roadmap > .roadmap-step > .roadmap-step-title > .roadmap-step-title-arrow {
+        left: -25px;
+    }
+
+    .roadmap > .roadmap-step > .roadmap-step-title {
+        margin-bottom: 45px !important;
+    }
+
+    .sale-start-token-buy-container {
+        padding: 25px 25px;
+    }
+}
+
+@media (min-width:1200px) {
+    #section-ecosystem > .container > .row > :first-child {
+        margin-bottom: -125px;
+    }
+  
+}
+
+@media (min-width: 1201px) and (max-width: 1299px) {
+    /* base */
+    .ecosystem-slide-number-container.no-red-line:after {
+        display: none;
+    }
+    h2 {
+        line-height: 1;
+    }
+    /* sale-start-token */
+    .sale-start-token-buy-container {
+        padding: 25px 25px;
+    }
+    .income-tabs > ul > li > .income-tab-title > span {
+        font-size:22px;
+    }
+}
+
+@media (min-width: 1300px) {
+    .ecosystem-slide-number-container.no-red-line:after {
+        display: none;
+    }
+    .container {
+        padding: 0;
+    }
+
+    h2 {
+        line-height: 1;
+    }
+    #function-token-scene > div:nth-child(4) > img{ 
+        left:100%;
+    }
+}
+
+@media (min-width: 1760px) {
+    #function-token-scene > div:nth-child(4) > img{ 
+        left:110%;
+    }
+
+}

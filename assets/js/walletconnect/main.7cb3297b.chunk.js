@@ -1,0 +1,2 @@
+(this.webpackJsonpxjusts=this.webpackJsonpxjusts||[]).push([[0],{62:function(n,s,t){"use strict";t.r(s);var o=t(61),a=t(60),i=t.n(a);window.WalletConnect=o.a,window.QRCodeModal=i.a},65:function(n,s){}},[[62,1,2]]]);
+//# sourceMappingURL=main.7cb3297b.chunk.js.map
