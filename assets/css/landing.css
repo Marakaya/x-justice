@@ -113,7 +113,7 @@ h2 .special-title{
     width:310px;
     text-align: center;
     line-height: 60px;
-    background: url("/images/back/btn.svg");
+    background: url("/x-justice/images/back/btn.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -137,7 +137,7 @@ h2 .special-title{
     position:relative;
 }
 .btn-back-circle-blue::before{
-    background-image: url("/images/back/blue-circle.svg");
+    background-image: url("/x-justice/images/back/blue-circle.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -155,7 +155,7 @@ h2 .special-title{
     position:relative;
 }
 .btn-back-circle-red::before{
-    background-image: url("/images/back/red-circle-2.svg");
+    background-image: url("/x-justice/images/back/red-circle-2.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -904,7 +904,7 @@ h2 .special-title{
 /*---------------------------------------------------------------------------------------------------*/
 /*sale-steps*/
 #section-sale-steps{
-   background: url("/images/back/steps.svg") no-repeat, linear-gradient(to top,#0F2133,#0F2133);
+   background: url("/x-justice/images/back/steps.svg") no-repeat, linear-gradient(to top,#0F2133,#0F2133);
    padding:125px 0;
 }
 
@@ -934,7 +934,7 @@ h2 .left-special-letter{
     left:50%;
     margin-left:-135px;
     top:0px;
-    background-image: url("/images/title-background.svg");
+    background-image: url("/x-justice/images/title-background.svg");
     background-size: cover;
     height: 68px;
     background-repeat: no-repeat;
@@ -1220,7 +1220,7 @@ h2 .left-special-letter{
     height: 100%;
     top:10%;
     left:-20%;
-    background-image: url("/images/back/red-circle.svg");
+    background-image: url("/x-justice/images/back/red-circle.svg");
     content: "";
     position:absolute;
     background-repeat: no-repeat;
@@ -1235,7 +1235,7 @@ h2 .left-special-letter{
     height: 100%;
     top:-30%;
     left:-15%;
-    background-image: url("/images/back/red-circle.svg");
+    background-image: url("/x-justice/images/back/red-circle.svg");
     content: "";
     position:absolute;
     background-repeat: no-repeat;
@@ -1250,7 +1250,7 @@ h2 .left-special-letter{
     height: 140%;
     top:-20%;
     left:-20%;
-    background-image: url("/images/back/red-circle.svg");
+    background-image: url("/x-justice/images/back/red-circle.svg");
     content: "";
     position:absolute;
     background-repeat: no-repeat;
@@ -1265,7 +1265,7 @@ h2 .left-special-letter{
     height: 100%;
     top:-30%;
     right:-15%;
-    background-image: url("/images/back/red-circle.svg");
+    background-image: url("/x-justice/images/back/red-circle.svg");
     content: "";
     position:absolute;
     background-repeat: no-repeat;
@@ -2489,7 +2489,7 @@ height:522px;
     padding:0 30px;
     max-width: 365px;
     margin:0 auto;
-    background:url(/images/income-tab.svg);
+    background:url(/x-justice/images/income-tab.svg);
     background-position: center;
     background-size: contain;
     background-repeat:no-repeat;
@@ -2497,7 +2497,7 @@ height:522px;
 }
 .income-tabs > ul > li:hover > .income-tab-title,
 .income-tabs > ul > li.active > .income-tab-title{
-    background:url(/images/income-tab-active.svg);
+    background:url(/x-justice/images/income-tab-active.svg);
     background-position: center;
     background-size: contain;
     background-repeat:no-repeat;
@@ -2533,7 +2533,7 @@ height:522px;
     color: #FFFFFF;
     height:64px;
     padding-top:10px;
-    background-image: url("/images/table-title-bg.svg");
+    background-image: url("/x-justice/images/table-title-bg.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position:top center;
@@ -2833,7 +2833,7 @@ height:522px;
 }
 .container-our-team .our-team-tab.active .our-team-tab-text{
     color:white;
-    background-image: url("/images/glow.svg");
+    background-image: url("/x-justice/images/glow.svg");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -2857,7 +2857,7 @@ height:522px;
     margin-top:-350px;
 }
 .container-our-team .our-team-tab .our-team-tab-image::after{
-   background-image:url("/images/team/red-x.svg");
+   background-image:url("/x-justice/images/team/red-x.svg");
    background-position: center;
    background-size: cover;
    background-repeat: no-repeat;
@@ -2911,7 +2911,7 @@ height:522px;
    top:0.5rem;
    right:0.5rem;
    padding:1rem;
-   background:url("/images/icons/close.svg") center no-repeat;
+   background:url("/x-justice/images/icons/close.svg") center no-repeat;
    cursor:pointer;
 }
 .modal-dialog.modal-image{
@@ -2962,7 +2962,7 @@ height:522px;
 .modal-gambling .modal-content .modal-header .btn-close{
     color: #345B82;
     opacity:1;
-    background:url("/images/icons/close.svg") center no-repeat;
+    background:url("/x-justice/images/icons/close.svg") center no-repeat;
     position:absolute;
     top:40px;
     right:60px;
@@ -3011,7 +3011,7 @@ height:522px;
 .modal-wallet .modal-content .modal-header .btn-close{
     color: #345B82;
     opacity:1;
-    background:url("/images/icons/close.svg") center no-repeat;
+    background:url("/x-justice/images/icons/close.svg") center no-repeat;
     position:absolute;
     top:20px;
     right:30px;
