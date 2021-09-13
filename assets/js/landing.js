@@ -28,7 +28,8 @@ $(document).ready(function (){
         }
     });
 
-
+    var scene = document.getElementById('section-primary-image');
+    var parallaxInstance = new Parallax(scene);
     var opacity;
 
     $('.roadmap > .roadmap-special-months > div').each(function(i){
@@ -43,7 +44,21 @@ $(document).ready(function (){
     });
     $(".tokenomics-panel > .row").css('min-height',$(".tokenomics-distribution-label").height()-148);
     $(".roadmap-special-logo-container").width($(".roadmap").width());
+    $(window).scroll(function(){
+        $( ".roadmap-step" ).each(function( index ) {
 
+            if(
+                $(this).offset().top <= $('#pushpin').offset().top +240
+                &&
+                $(this).offset().top + $(this).height() >= $('#pushpin').offset().top+199
+
+            ){
+                $(this).addClass('active');
+            }else{
+                $(this).removeClass('active');
+            }
+        });
+    });
 /*
     $(window).scroll(function(){
         $( ".roadmap-step" ).each(function( index ) {
